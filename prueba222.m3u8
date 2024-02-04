@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:751
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.000300,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_751.ts
+#EXTINF:10.000444,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_752.ts
+#EXTINF:10.000444,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_753.ts
+#EXTINF:10.000456,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_754.ts
+#EXTINF:10.000422,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_755.ts
+#EXTINF:10.000444,
+https://live.sdfgnksbounce.com:8080/MTkwLjIzMy4yNy4y/39_756.ts
